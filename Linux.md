@@ -81,12 +81,9 @@ Linux 的 Wiki 中有这句话：
 
 **CentOS：适用于服务器机**
 
-**推荐版本：6.7**
+**推荐版本：7**
 
-- CentOS 官网：<http://www.centos.org/download/>
-- 网易镜像：<http://mirrors.163.com/centos/>
-- 阿里云镜像：<http://mirrors.aliyun.com/centos/>
-- CentOS 6.7 **64 位**镜像地址：<http://mirrors.163.com/centos/6.7/isos/x86_64/CentOS-6.7-x86_64-bin-DVD1.iso>
+- CentOS 7 **64 位**镜像地址：http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1611.iso
 
 **推荐理由：**
 
